@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Matheus Oliveira
 
-- 🔭 Hoje trabalho como vendedor, pretendo trabalhar com front-end
 - 🌱 Estudando HTML, CSS e JavaScript
 
 <div align="center">

@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Oliveira
 
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🌱 Estudando HTML, CSS e Python
 
 <div align="center">
   <a href="https://github.com/lMatheuslOliveiral">
